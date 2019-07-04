@@ -1,7 +1,7 @@
 # Script generated with import_catkin_packages.py
 # For more information: https://github.com/bchretien/arch-ros-stacks
 pkgdesc="ROS - A rosout GUI viewer developed at Southwest Research Insititute as an alternative to rqt_console."
-url='http://ros.org/wiki/swri_console'
+url='https://wiki.ros.org/swri_console'
 
 pkgname='ros-melodic-swri-console'
 pkgver='1.1.0'
